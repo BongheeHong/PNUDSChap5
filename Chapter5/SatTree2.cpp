@@ -275,6 +275,7 @@ int main()
 	//&&AB|CD
 	//|&ABC
 	//&|AB!C
+	//&!A&CB
 
 	SatTree t;
 

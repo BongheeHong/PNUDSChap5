@@ -36,6 +36,9 @@
     <ClCompile Include="SatTree2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BST_Join.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
